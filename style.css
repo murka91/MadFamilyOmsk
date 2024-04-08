@@ -375,7 +375,7 @@ video {
 
 .card__inner {
     position: relative;
-    background-color: #4e1563;
+    background-color: #9262a3;
 }
 
 .card__inner:hover .card__img {
@@ -391,7 +391,7 @@ video {
 }
 
 .card__img {
-    background: linear-gradient(to bottom, #000000, #000000);
+   background: linear-gradient(to bottom, #0000008a, #00000033);
 
     transition: transform .2s linear;
 }
